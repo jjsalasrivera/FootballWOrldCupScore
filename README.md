@@ -1,2 +1,2 @@
-# FootballWOrldCupScore
+# FootballWorldCupScore
 A football score test
