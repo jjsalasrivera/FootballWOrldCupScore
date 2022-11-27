@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libFootballWorldCupScore", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballWorldCupScoreApp", "FootballWorldCupScoreApp\FootballWorldCupScoreApp.csproj", "{8A6DF0C2-6404-4E58-8F11-0F9479E66D2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{310D383A-5901-4B27-B22E-44C4546E2F22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballWorldCupScoreTest", "FootballWorldCupScoreTest\FootballWorldCupScoreTest.csproj", "{310D383A-5901-4B27-B22E-44C4546E2F22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

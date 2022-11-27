@@ -6,6 +6,8 @@
         <IsPackable>false</IsPackable>
 
         <AssemblyName>FootballWorldCupScoreTest</AssemblyName>
+
+        <RootNamespace>TestProject1</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
